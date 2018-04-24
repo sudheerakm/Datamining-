@@ -18,3 +18,6 @@ Findings: We find a positive correlation between the daily number of mentions of
 stocks close prices and daily transactions volume of a company's stock after the tweets and news are released. Our results provide
 quantitative support for the suggestion that movements in financial markets and movements in financial news and tweets are intrinsically
 interlinked.
+
+
+Project link: http://yoda.kean.edu/~kasturim/CPS5921/Project1/Project1.php
